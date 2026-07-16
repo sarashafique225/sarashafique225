@@ -60,7 +60,7 @@ I'm a BS Computer Science undergraduate at NUML University, Lahore, with a passi
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarashafique225/Smart-Attendance-Management-System)
 
--
+--
 
 ### 🍔 FoodExpress — Online Food Delivery System
 > A full-stack food ordering platform built with Laravel that allows users to browse restaurants, order meals, track nutritional intake, and receive AI-powered food recommendations based on their preferences and eating habits.
